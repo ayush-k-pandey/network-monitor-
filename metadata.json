@@ -1,0 +1,5 @@
+{
+  "name": "Smart Web Traffic Analyzer",
+  "description": "Real-time network traffic monitoring, analytics, and visualization dashboard with bandwidth tracking and domain resolution.",
+  "requestFramePermissions": []
+}
